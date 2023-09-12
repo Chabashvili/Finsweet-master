@@ -1,0 +1,303 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo {
+    background-color: #1C1E53;
+    width: 100%; 
+    height: 92px;
+}
+
+.logo svg {
+    position: absolute;
+    left: 160px;
+    right: 0.48%;
+    top: 32px;
+    bottom: 2.02%;
+    color: white;
+    width: 121.41px;
+    height: 27.43px;
+}
+
+.navbar {
+    position: absolute;
+    display: flex;
+    gap: 32px;
+    font-size: 16px;
+    line-height: 28px;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 734px;
+    padding-top: 32px;
+}
+
+.home {
+    color: #fff;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.about {
+    color: #BBBBCB;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.feature {
+    color: #BBBBCB;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.pricing {
+    color: #BBBBCB;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.faq {
+    color: #BBBBCB;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.blog {
+    color: #BBBBCB;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.contact {
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+    margin-left: 1303px;
+    color: #fff;
+    padding-top: 32px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.policy {
+     line-height: 64px;
+     font-size: 48px;
+     font-weight: 600;
+     color: #282938;
+     margin: auto;
+     text-align: center;
+     margin-top: 128px;
+}
+
+.figma {
+    margin-top: 16px;
+    color: #282938;
+    text-align: center;
+    line-height: 28px;
+    font-size: 16px;
+    font-weight: 500;
+    opacity: 70%;
+}
+
+.main-title {
+    color: #282938;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 56px;
+    margin-top: 64px;
+    margin-left: 379px;
+}
+
+.lorem1 {
+    width: 842px;
+    height: 112px;
+    left: 379px;
+    top: 500px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    margin-left: 379px;
+    margin-top: 32px;
+    opacity: 70%;
+    color: #282938;
+}
+
+.sunt {
+    margin-top: 24px;
+    margin-left: 379px;
+    color: #282938;
+    opacity: 70%;
+    width: 842px;
+    height: 112px;
+}
+
+.lorem2 {
+    margin-left: 379px;
+    margin-top: 40px;
+    color: #282938;
+    width: 832px;
+    height: 112px;
+    font-size: 38px;
+    line-height: 56px;
+}
+
+.cupidatat {
+    color: #282938;
+    opacity: 70%;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    width: 842px;
+    height: 168px;
+    margin-left: 379px;
+    margin-top: 32px;
+}
+
+.lorem3 {
+    color: #282938;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: justify;
+    margin-left: 391px;
+    margin-top: 24px;
+    opacity: 70%;
+    max-width: 587px;
+    max-height: 28px;
+}
+
+.lorem4 {
+    margin-left: 379px;
+    margin-top: 96px;
+    opacity: 70%;
+    max-width: 842px;
+    max-height: 56px;
+    color: #282938;
+}
+
+.footer {
+    background-color: #1C1E53;
+    width: 100%;
+    height: 397px;
+    margin-top: 128px;
+}
+
+.footer svg {
+    margin-top: 100px;
+    margin-left: 158px;
+    width: 156px;
+    height: 38px;
+    color: #fff;
+}
+
+.fin-title {
+    margin-top: 22px;
+    margin-left: 160px;
+    opacity: 80%;
+    width: 399px;
+    height: 56px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFF;
+}
+
+.talk {
+    color: #FFF;
+    position: absolute;
+    width: 333px;
+    height: 64px;
+    font-size: 48px;
+    line-height: 64px;
+    margin-left: 818px;
+    margin-top: -130px;
+}
+
+.uix {
+    color: #F4F6FC;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    opacity: 80%;
+    width: 399px;
+    height: 84px;
+    margin-top: -43px;
+    margin-left: 819px;
+}
+
+.icons {
+    display: flex;
+    color: white;
+    position: absolute;
+    margin-left: 794px;
+    margin-top: 28px;
+}
+
+i {
+    margin-left: 26px;
+    cursor: pointer;
+}
+
+.contact2 {
+    background-color: #FCD980;
+    width: 517px;
+    height: 95px;
+    margin-top: 38px;
+    margin-left: 160px;
+}
+
+.emaill {
+    width: 108px;
+    height: 32px;
+    padding-top: 18px;
+    margin-left: 37px;
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 500;
+}
+
+.email2 {
+    margin-top: 20px;
+    margin-left: 37px;
+    opacity: 80%;
+    color: #282938;
+}
+
+.call {
+    width: 108px;
+    height: 32px;
+    margin-top: -58px;
+    margin-left: 247px;
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 500;
+}
+
+.number {
+    margin-top: 1px;
+    margin-left: 247px;
+    opacity: 80%;
+    color: #282938;
+}
